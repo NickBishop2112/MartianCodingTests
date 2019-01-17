@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartianLander.Tests", "MartianLander.Tests\MartianLander.Tests.csproj", "{A8D53543-AAEC-4386-A03A-FE968B75CD24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartianLander", "..\MartianLander\MartianLander.csproj", "{13446192-8552-4653-A9FD-078AB6E04060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8D53543-AAEC-4386-A03A-FE968B75CD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D53543-AAEC-4386-A03A-FE968B75CD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D53543-AAEC-4386-A03A-FE968B75CD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D53543-AAEC-4386-A03A-FE968B75CD24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13446192-8552-4653-A9FD-078AB6E04060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13446192-8552-4653-A9FD-078AB6E04060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13446192-8552-4653-A9FD-078AB6E04060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13446192-8552-4653-A9FD-078AB6E04060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {338CBD2D-ED19-4A7F-A13D-47C4B8C35B31}
+	EndGlobalSection
+EndGlobal
